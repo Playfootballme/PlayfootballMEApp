@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:playfootballme.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:/Users/baselaq/Codelab/playfootballme/ios/Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168534594782",
+    "project_id": "playfootball-me",
+    "storage_bucket": "playfootball-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168534594782:android:629aaeda70c9b6ab499e4f",
+        "android_client_info": {
+          "package_name": "com.playfootballme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168534594782-q84k0lmbfp9nr6lj3lhj44ekv9f33c3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyQD1mMuGe1vzCM0JPK5jLAtpbHGE4tRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168534594782-q84k0lmbfp9nr6lj3lhj44ekv9f33c3q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168534594782-k1t93j46d1f8turn9kroc58f0ph7ngr9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.playfootballme",
+                "app_store_id": "6446218792"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+// write redux store selectors here
+export const getMatches = state => state.matches;
+export const getTodayMatches = state => state.todayMatches;
+export const getPastMatches = state => state.pastMatches.entities;
+export const getPastMatchesCount = state => state.pastMatches.count;
+export const getTournaments = state => state.tournaments;
+export const getPastTournaments = state => state.pastTournaments.entities;
+export const getPastTournamentsCount = state => state.pastTournaments.count;
+export const getPickups = state => state.pickups;
+export const getPastPickups = state => state.pastPickups;
+export const getCurrency = state => state.country.currency;
+export const getCountry = state => state.country.code;
+export const getTimezone = state => state.country.timezone;
+export const getLanguage = state => state.language.current;
+export const getAvailableLanguages = state => state.language.available;
+export const getTheme = state => state.theme.current;
+export const getAvailableThemes = state => state.theme.available;
+export const getMe = state => state.authUser;
+export const getAnnouncements = state => state.announcements;
+export const getDropdownCountries = state => state.dropdownCountries;
+export const getApplyInfo = state => state.applyInfo;

@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/IBM.ttf",
+      "sha1": "1fbb97720fa14853a4e2cb276638d792b0c5f251"
+    },
+    {
+      "path": "src/assets/fonts/Lexend.ttf",
+      "sha1": "8ae717047161c0341e844f189f609ae4c89ab29b"
+    },
+    {
+      "path": "src/assets/fonts/NotoKufi.ttf",
+      "sha1": "71e6f4210e5c6dc5fed6107b196d8961e45fd121"
+    }
+  ]
+}

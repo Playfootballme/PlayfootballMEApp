@@ -1,0 +1,18 @@
+export default {
+  mainTitle: 'البطولات القادمة',
+  noUpcoming: 'لا توجد بطولات قادمة',
+  loadPast: 'تحميل البطولات السابقة',
+  pastMainTitle: 'البطولات السابقة',
+  noPast: 'لا توجد بطولات سابقة',
+  eventEndedButton: 'انتهت البطولة',
+  leaveEventButton: 'مغادرة البطولة',
+  joinEventButton: 'الانضمام إلى البطولة',
+  joinWaitingListButton: 'الانضمام إلى قائمة الانتظار',
+  confirmLeaveEventMsg: 'هل أنت متأكد أنك تريد مغادرة هذه البطولة؟',
+  confirmJoinEventMsg: 'بالانضمام إلى هذه البطولة، سيتم محاسبتك',
+  confirmJoinEventSuccessMsg: 'لقد انضممت بنجاح إلى البطولة',
+  confirmJoinEventSuccessMsg2Pt1: 'لا تنس أن البطولة ستبدأ في',
+  confirmLeaveEventSuccessMsg: 'لقد غادرت البطولة بنجاح',
+  alertAddingGust: 'موجود بالفعل في البطولة، يرجى اختيار ضيف آخر',
+  backToTournamentsDetails: 'العودة إلى تفاصيل البطولة',
+};
